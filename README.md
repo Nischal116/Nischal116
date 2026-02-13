@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Nischal116
+# Hi there! 👋 I'm Nischal
 
 Welcome to my GitHub profile! I'm a passionate student and aspiring full-stack developer diving deep into the **MERN stack** and exploring the exciting world of **Web3** technologies.
 
