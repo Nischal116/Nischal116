@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Nischal
 
-Welcome to my GitHub profile! I'm a passionate student and aspiring full-stack developer diving deep into the **MERN stack** and exploring the exciting world of **Web3** technologies.
+Welcome to my GitHub profile! I'm a passionate student and aspiring full-stack developer diving deep into the **MERN stack** and exploring **Web3** technologies.
 
 ## 🚀 About Me
 
@@ -22,10 +22,6 @@ I'm a fresher developer with a strong passion for building modern web applicatio
 - 🧠 Understanding smart contracts and DeFi
 - 📚 Contributing to open-source projects
 - 🌱 Strengthening my data structures & algorithms knowledge
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nischal116&show_icons=true&theme=radical)
 
 ## 🌟 Projects & Learning Journey
 
