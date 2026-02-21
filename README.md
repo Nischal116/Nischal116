@@ -35,7 +35,7 @@ Check out my repositories to see my projects and learning progress. I'm building
 - **Email**: nischalchandra84@gmail.com
 - **Twitter**: @nischaltwts
 
-## 💡 Fun Facts About Me
+## 💡 About Me
 
 - ⚡ I love solving algorithmic challenges
 - 🔗 Excited about the future of decentralized web
